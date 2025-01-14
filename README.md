@@ -13,7 +13,7 @@ Clone the repo. Open ```index.html``` in your browser ([Chrome](https://www.goog
 
 ## Live version
 
-[Available here](https://clariah-grlc-sustainability.github.io/nosparql-query-builder/)
+[Available here](https://yasgui-with-rosemary.github.io/nosparql-query-builder/)
 
 ## License
 
